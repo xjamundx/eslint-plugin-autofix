@@ -1,2 +1,13 @@
 # eslint-plugin-autofix
-Autofix rules that aren't ready for eslint
+
+Experimental autofixes for eslint.
+
+## Rules
+
+### `prefer-const`
+
+Coming soon...
+
+### `comma-dangle`
+
+Coming soon...

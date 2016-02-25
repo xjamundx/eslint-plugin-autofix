@@ -1,0 +1,27 @@
+{
+  "name": "eslint-plugin-autofix",
+  "version": "1.0.0",
+  "description": "Experimental eslint autofixes",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "promise",
+    "promises"
+  ],
+  "author": "jamund ferguson <jamund@gmail.com>",
+  "repository": "git@github.com:xjamundx/eslint-plugin-autofix.git",
+  "scripts": {
+    "pretest": "standard",
+    "test": "mocha test"
+  },
+  "devDependencies": {
+    "eslint": "~1.2.0",
+    "mocha": "^2.3.4",
+    "standard": "^5.4.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC"
+}
