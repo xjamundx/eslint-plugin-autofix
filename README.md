@@ -2,6 +2,8 @@
 
 Experimental autofixes for eslint.
 
+### THIS IS NOT YET SUPPORTED BY ESLINT SO n/m
+
 ## Rules
 
 ### `prefer-const`
